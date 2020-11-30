@@ -1,1 +1,1 @@
-Hey, this is an CLI app. I have used Node.JS and created an simple quiz based on the Epic of Mahabharatha.
+Hii, This is an CLI app built using Node.JS and created an simple quiz based on the Epic of Mahabharatha.
